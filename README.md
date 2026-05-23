@@ -9,7 +9,7 @@ This project analyses salary levels, living costs and savings potential across m
 ## Tools Used
 - Excel
 - Data Cleaning
-- Data Visualisarion
+- Data Visualisation
 - Pivot Charts
 ## Key Insights
 - London has the highest salaries and living costs
