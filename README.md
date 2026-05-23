@@ -16,7 +16,7 @@ This project analyses salary levels, living costs and savings potential across m
 - Manchester offers strong savings potential
 - Mid-sized cities provide better affordability
 ## Dashboard Preview
-
+![Dashboard Preview](dashboard.png)
 ## Business Recommendations
 - Graduates and professionals may benefit from considering cities with lower housing costs and better affordability balance.
 ## Author
