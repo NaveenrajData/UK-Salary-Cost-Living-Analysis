@@ -4,7 +4,7 @@ This project analyses salary levels, living costs and savings potential across m
 ## Objectives
 - Compare salaries across major UK cities
 - Analyse monthly living expenses
-- Identify savings potentil
+- Identify savings potential
 - Generate business insights
 ## Tools Used
 - Excel
